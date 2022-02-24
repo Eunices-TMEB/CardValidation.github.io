@@ -1,4 +1,5 @@
-![cardvalidation](https://user-images.githubusercontent.com/93012367/155595739-def2f609-9db5-4543-b63d-caa6c34fbf3d.png)
+![cardvalidation](https://user-images.githubusercontent.com/93012367/155595809-ad2f9913-90e0-4b1c-8d1f-bd480f6bebe0.png)
+
 
 
 # <h1 align="center">Hola 👋, Soy Eunices Trujillo</h1>
