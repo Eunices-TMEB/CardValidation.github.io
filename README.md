@@ -1,3 +1,6 @@
+![cardvalidation](https://user-images.githubusercontent.com/93012367/155595739-def2f609-9db5-4543-b63d-caa6c34fbf3d.png)
+
+
 # <h1 align="center">Hola 👋, Soy Eunices Trujillo</h1>
 
 <h3 align="center">Autodidacta developer from Santiago, Chile</h3>
